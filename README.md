@@ -18,6 +18,7 @@
 </p>
   
 <br>
+<p><img align="right" src="https://github.com/mirajsankdecha/mirajsankdecha/blob/main/images/animation_500_kxa883sd.gif" alt="AshkanPoyber" /> </p>
 
 <p><img align="right" src="https://github.com/mirajsankdecha/mirajsankdecha/blob/main/animation_500_kxa883sd.gif" alt="mirajsankdecha" /> </p>
 
