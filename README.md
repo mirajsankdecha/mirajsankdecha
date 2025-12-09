@@ -80,27 +80,28 @@
 
 ## 📊 Top Languages:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirajsankdecha&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mirajsankdecha&show_icons=true&layout=compact&theme=dark"
+    alt="Top Languages" />
 </p>
-
-<br>
 
 ## 📈 GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirajsankdecha&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=mirajsankdecha&show_icons=true&count_private=true&theme=dark"
+    alt="GitHub Stats" />
 </p>
 
-<br>
-
+## 🔥 Streak / Contribution Summary:
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirajsankdecha&theme=dark&background=0d1117" />
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mirajsankdecha&theme=dark"
+    alt="GitHub Streak" />
 </p>
 
-<br>
+## Visitor Count
+<p>
+  <!-- Use your username (no curly braces) -->
+  <img src="https://profile-counter.glitch.me/mirajsankdecha/count.svg" alt="Visitor Count" />
+</p>
 
-## Visitor Count  
-<img src="https://profile-counter.glitch.me/{mirajsankdecha}/count.svg">
-
-<br>
-
-<b>Thanks for visiting my GitHub profile!</b>
