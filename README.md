@@ -78,30 +78,12 @@
 
 <br>
 
-## 📊 Top Languages:
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mirajsankdecha&show_icons=true&layout=compact&theme=dark"
-    alt="Top Languages" />
-</p>
-
 ## 📈 GitHub Stats:
+
+<br>
+
 <p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mirajsankdecha&show_icons=true&count_private=true&theme=dark"
-    alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirajsankdecha&theme=dark&background=0d1117" />
 </p>
 
-## 🔥 Streak / Contribution Summary:
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mirajsankdecha&theme=dark"
-    alt="GitHub Streak" />
-</p>
-
-## Visitor Count
-<p>
-  <!-- Use your username (no curly braces) -->
-  <img src="https://profile-counter.glitch.me/mirajsankdecha/count.svg" alt="Visitor Count" />
-</p>
-
+<b>Thanks for visiting my GitHub profile!</b>
